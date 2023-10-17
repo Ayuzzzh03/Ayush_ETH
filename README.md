@@ -3,7 +3,7 @@ This course was designed to introduce about some very basic concepts of Web3 and
 
 ## Description
 
-I have created my own token named "Ayu" abbreviated as "Gawali". There is the record of its total supply. And if someone mints some "Gawali" tokens then it will be added to the total supply of it. Also if someone burns those tokens, it will get subtracted from the total supply (Only if there is enough balance).
+I have created my own token named "Ayu" abbreviated as "Gava". There is the record of its total supply. And if someone mints some "Gava" tokens then it will be added to the total supply of it. Also if someone burns those tokens, it will get subtracted from the total supply (Only if there is enough balance).
 
 ## Getting Started
 I wrote the code in Solidity Language, and I used Metacrafters ETH Proof as my learning resource which helped me creating this project.
